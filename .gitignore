@@ -1,7 +1,6 @@
 __pycache__/
 *.py[cod]
-
 /.env
 /venv/
-core\private_key.pem
-core\public_key.pem
+core/private_key.pem
+core/public_key.pem
